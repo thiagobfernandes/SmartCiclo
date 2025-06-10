@@ -9,7 +9,6 @@
     "jsx": "react-jsx",
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true,
-     "allowImportingTsExtensions": true
   },
   "include": ["src"],
   "exclude": ["dist", "node_modules"]
