@@ -36,15 +36,7 @@ const Hero = () => {
             geram créditos de carbono e recompensam cidadãos pelo descarte correto.
           </p>
 
-          {/* CTA Buttons */}
-          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12 animate-slide-up animation-delay-400">
-            <button className="bg-white text-primary-600 px-8 py-4 rounded-xl font-semibold text-lg hover:bg-gray-50 transition-all duration-200 hover:scale-105 shadow-xl">
-              Solicitar Demonstração
-            </button>
-            <button className="border-2 border-white text-white px-8 py-4 rounded-xl font-semibold text-lg hover:bg-white hover:text-primary-600 transition-all duration-200 hover:scale-105">
-              Ver Como Funciona
-            </button>
-          </div>
+        
 
           {/* Stats */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-3xl mx-auto animate-slide-up animation-delay-600">
