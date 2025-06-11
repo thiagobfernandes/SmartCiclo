@@ -1,5 +1,6 @@
 import React from 'react'
 import ModernModalDemo from './Buttom'
+import ModernModalDemoMap from './ButtomMap'
 
 const HowItWorks = () => {
   const steps = [
@@ -133,6 +134,7 @@ const HowItWorks = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
              <ModernModalDemo></ModernModalDemo>
+             <ModernModalDemoMap></ModernModalDemoMap>
               
             </div>
           </div>
