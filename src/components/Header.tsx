@@ -58,7 +58,7 @@ const Header = () => {
           {/* CTA Button */}
           <div className="hidden lg:flex items-center space-x-4">
             <button className="bg-primary-500 hover:bg-primary-600 text-white px-6 py-2 rounded-lg font-medium transition-all duration-200 hover:scale-105">
-              Solicitar Demo
+              Entre em contato
             </button>
           </div>
 
