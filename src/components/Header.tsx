@@ -95,7 +95,7 @@ const Header = () => {
               ))}
               <div className="pt-2">
                 <button className="w-full bg-primary-500 hover:bg-primary-600 text-white px-4 py-2 rounded-lg font-medium transition-colors">
-                  Solicitar Demo
+                  Entre em contato
                 </button>
               </div>
             </div>
